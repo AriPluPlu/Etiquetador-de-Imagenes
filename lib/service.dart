@@ -18,6 +18,8 @@ class TFService {
 
   Future<void> loadModel() async {
     try {
+      // Carga el modelo TFLite desde los assets
+      // Asegúrate de que el modelo esté incluido en pubspec.yaml
       _interpreter = await Interpreter.fromAsset(
         'assets/models/mobilenet_v1_1.0_224.tflite',
       );

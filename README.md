@@ -1,17 +1,10 @@
-# tflite_app
+# Etiquetador de imagenes con TFLite #
 
-A new Flutter project.
+Este es un proyecto realizado en clase de desarrollo de apps moviles.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-recon_img_TfLite
+## Funciones:
+    -Tomar una foto 
+    -Seleccionar foto de la galería 
+    -Procesar imagen
+    -Genrar la etiqueta
+    -Reiniciar
