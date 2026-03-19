@@ -8,3 +8,14 @@ Este es un proyecto realizado en clase de desarrollo de apps moviles.
     -Procesar imagen
     -Genrar la etiqueta
     -Reiniciar
+
+## Comando de ejecucion
+```bash
+//Crear proyecto
+flutter create .
+
+//Agregar dependencias 
+flutter pub get
+
+//Ejecutar proyecto
+Flutter run
